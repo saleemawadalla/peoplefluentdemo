@@ -1,4 +1,4 @@
-# Descriptoon
+# Description
 This project is a simple exam score sheet web app with basic data handling. The web app allows users to present, add and delete results. Results can be filtered based on the grade the students are in and based on the scores they acheived in the exam.
 
 ## Getting Started
